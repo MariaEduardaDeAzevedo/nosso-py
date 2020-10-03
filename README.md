@@ -16,7 +16,8 @@ Olá, seja muito bem-vinde ao **Nosso Py**! Este repositório guarda uma coletâ
 - [Bora programar!](#Bora-programar!)
 - [Vende teu peixe](#Vende-teu-peixe)
 
-#Tem um minuto para ouvir a palavra do Python?
+## Tem um minuto para ouvir a palavra do Python?
+
 O Zen do Python, por Tim Peters.
 
 Bonito é melhor que feio.
