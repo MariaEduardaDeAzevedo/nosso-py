@@ -52,6 +52,7 @@ Link | Tipo | Descrição
 [Curso em Vídeo - Python: Mundo 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)|Curso gratuito no Youtube|Um curso gratuito e introdutório de Python 1/3
 [Curso em Vídeo - Python: Mundo 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)|Curso gratuito no Youtube|Um curso gratuito e introdutório de Python 2/3
 [Curso em Vídeo - Python: Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)|Curso gratuito no Youtube|Um curso gratuito e introdutório de Python 3/3
+[Python para Zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)|Curso gratuito no Youtube|Um curso gratuito e introdutório de Python
 
 ### O maravilhoso mundo das bibliotecas
 Uma coisa que Python tem de ruma é módulo.  Se você já programa em Python, com certeza já foi no [Python Package Index](https://pypi.org/) (famoso, PyPi) para encontrar algum pacote que atendesse suas necessidades.
@@ -60,6 +61,7 @@ Abaixo temos uma lista de links de documentações de bibliotecas para você exp
 Nome|Descrição|PyPi|Documentação|
 --------|-------------|------|---------------------|
 OPenCV|Uma biblioteca multiplataforma voltada para visão computacional|[opencv-python](https://pypi.org/project/opencv-python/)|[Link](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
+Pandas|Uma biblioteca voltada para manipulação e análise de dados|[pandas](https://pypi.org/project/pandas/)|[Link](https://pandas.pydata.org/docs/)
 
 ### Implementações
 Sabe aquele algoritmo que sempre é um sacrilégio para a galera aprender? Tu sabe implementar? Não? Sem problemas! Quem sabe, [manda aqui](./CONTRIBUTING.md), quem não sabe, [aprende aqui!](./implementacoes).
