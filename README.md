@@ -6,7 +6,7 @@
 <img src="https://t2.tudocdn.net/371798?w=646&h=284"/>
 <p/>
 
-Olá, seja muito bem-vinde ao **Nosso Py**! Este repositório guarda uma coletânea de **links**, **códigos**, **mini-projetos** e **ideias** do que se fazer e de como aprender essa linguagem linda e maravilhosa que Python é. Segue esse README para saber mais!
+Olá, seja muito bem-vinde ao **Nosso Py**! Este repositório guarda uma coletânea de **links**, **códigos**, **mini-projetos** e **ideias** do que se fazer e de como aprender essa linguagem linda e maravilhosa que Python é. Segue esse README para saber mais e deixa uma ⭐ por aqui!
 
 ### Sumário
 - [Tem um minuto para ouvir a palavra do Python?](#Tem-um-minuto-para-ouvir-a-palavra-do-Python?)
