@@ -53,6 +53,11 @@ Link | Tipo | Descrição
 [Curso em Vídeo - Python: Mundo 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)|Curso gratuito no Youtube|Um curso gratuito e introdutório de Python 2/3
 [Curso em Vídeo - Python: Mundo 3](https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)|Curso gratuito no Youtube|Um curso gratuito e introdutório de Python 3/3
 [Python para Zumbis](https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc)|Curso gratuito no Youtube|Um curso gratuito e introdutório de Python
+[Pense em Python - 2º Ed](https://penseallen.github.io/PensePython2e/)|Livro gratuito|Tradução do livro Pense em Python (2ª ed.), de Allen B. Downey, por Luciano Ramalho.
+[python-funcional](https://dunossauro.github.io/python-funcional/roteiros/00_introducao.html)|Livro gratuito|Aprenda o paradigma funcional com a linguagem Python.
+[Meu Primeiro Livro de Python](https://github.com/edubd/meu_primeiro_livro_de_python/blob/master/ECorrea_Meu_Primeiro_Livro_de_Python_v2_0_0.pdf)|Livro gratuito|Livro gratuito que apresenta conceitos e técnicas fundamentais para os que desejam começar a trabalhar com Python para ciência de dados.
+[Python para Desenvolvedores](Phttp://ricardoduarte.github.io/python-para-desenvolvedores/)|Livro gratuito|Livro gratuito voltado para quem já possui conhecimento de programação e quer aprender Python.
+
 
 ### O maravilhoso mundo das bibliotecas
 Uma coisa que Python tem de ruma é módulo.  Se você já programa em Python, com certeza já foi no [Python Package Index](https://pypi.org/) (famoso, PyPi) para encontrar algum pacote que atendesse suas necessidades.
