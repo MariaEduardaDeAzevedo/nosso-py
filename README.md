@@ -92,3 +92,7 @@ Aqui tem uma lista de projetinhos em Python de uma galera pra você conferir!
 Nome|Descrição|Repositório
 --------|-------------|----------------|
 Header| Aplicação de linha de comando para importar conteúdos prontos em arquivo|[header](https://www.github.com/MariaEduardaDeAzevedo/header)
+PyElit| Repositório para desenvolvimento de biblioteca com funcionalidades de: Geoparsing e Modelagem de Tópicos | [PyElit](https://github.com/richecr/PyElit)
+PyGraph| Biblioteca com intuito de implementar os grafos e seus algoritmos de Teoria dos Grafos| [PyGraph](https://github.com/richecr/PyGraph)
+PyTwitterSDK| Um SDK Python para a API Twitter| [PyTwitterSDK](https://github.com/richecr/PyTwitterSDK)
+| PySoccer| Biblioteca para acessar os dados das principais ligas mundiais de futebol| [PySoccer](https://github.com/richecr/PySoccer)
