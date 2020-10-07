@@ -57,6 +57,9 @@ Link | Tipo | Descrição
 [python-funcional](https://dunossauro.github.io/python-funcional/roteiros/00_introducao.html)|Livro gratuito|Aprenda o paradigma funcional com a linguagem Python.
 [Meu Primeiro Livro de Python](https://github.com/edubd/meu_primeiro_livro_de_python/blob/master/ECorrea_Meu_Primeiro_Livro_de_Python_v2_0_0.pdf)|Livro gratuito|Livro gratuito que apresenta conceitos e técnicas fundamentais para os que desejam começar a trabalhar com Python para ciência de dados.
 [Python para Desenvolvedores](http://ricardoduarte.github.io/python-para-desenvolvedores/)|Livro gratuito|Livro gratuito voltado para quem já possui conhecimento de programação e quer aprender Python.
+[Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/course/python-3-na-web-com-django-basico-intermediario/)|Curso gratuito na Udemy|Curso gratuito para ter noção de como planejar o desenvolvimento de uma aplicação web com python.
+[Django Web Framework (Python)](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django)|Artigo|Resumo sobre o que é e o que faz esse web framework.
+[The Django Book](https://github.com/erichideki/djangobook)|Livro gratuito|Tradução do livro feito por desenvoldedores do framework, sobre Django.
 
 
 ### O maravilhoso mundo das bibliotecas
