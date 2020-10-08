@@ -70,6 +70,9 @@ Nome|Descrição|PyPi|Documentação|
 --------|-------------|------|---------------------|
 OPenCV|Uma biblioteca multiplataforma voltada para visão computacional|[opencv-python](https://pypi.org/project/opencv-python/)|[Link](https://docs.opencv.org/master/d6/d00/tutorial_py_root.html)
 Pandas|Uma biblioteca voltada para manipulação e análise de dados|[pandas](https://pypi.org/project/pandas/)|[Link](https://pandas.pydata.org/docs/)
+Requests|Uma biblioteca que busca simplificar o HTTP|[requests](https://pypi.org/project/requests/)|[link](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html)
+Numpy|Uma biblioteca usada principalmente para realizar cálculos em Arrays Multidimensionais|[numpy](https://pypi.org/project/numpy/)|[link](https://numpy.org/doc/stable/)
+Matplotlib|Uma biblioteca de software para criação de gráficos e visualizações de dados|[matplotlib](https://pypi.org/project/matplotlib/)|[link](https://matplotlib.org/contents.html)
 
 ### Implementações
 Sabe aquele algoritmo que sempre é um sacrilégio para a galera aprender? Tu sabe implementar? Não? Sem problemas! Quem sabe, [manda aqui](./CONTRIBUTING.md), quem não sabe, [aprende aqui!](./implementacoes).
