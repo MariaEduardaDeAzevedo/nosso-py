@@ -81,7 +81,7 @@ Sabe aquele algoritmo que sempre é um sacrilégio para a galera aprender? Tu sa
 Com vontade de programar, mas não sabe por onde começar? Essa seção é para você!
 Temos aqui dois modos de você desenvolver e praticar:
 
-1. [**Mini-projetos**](#Mini-projetos)      
+1. [**Mini-projetos**](#Mini-projetos)
 [*Ver ideias disponíveis*](./mini-projetos)
 2. [**Desafios**](#Desafios)
 [*Ver desafios*](./desafios)
