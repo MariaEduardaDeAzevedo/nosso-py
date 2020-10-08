@@ -81,15 +81,22 @@ Sabe aquele algoritmo que sempre é um sacrilégio para a galera aprender? Tu sa
 Com vontade de programar, mas não sabe por onde começar? Essa seção é para você!
 Temos aqui dois modos de você desenvolver e praticar:
 
-1. [Mini-projetos](#Mini-projetos)
-2. [Desafios](#Desafios)
+1. [**Mini-projetos**](#Mini-projetos)      
+[*Ver ideias disponíveis*](./mini-projetos)
+2. [**Desafios**](#Desafios)
+[*Ver desafios*](./desafios)
+3. [**Resoluções**](#Resoluções)
 
 ##### Mini-projetos
-Os mini-projetos são propostos pela própria comunidade em forma de issue. Você pode desenvolvê-los e colocá-los aqui mesmo, na pasta de mini-projetos ([clica aqui pra saber como mandar teu projetinho feito!](./CONTRIBUTING.md)), ou em um repositório seu e [vender teu peixe](#Vende-teu-peixe) para a galera ir contribuir com novas ideias legais por lá!
+Os mini-projetos são propostos pela própria comunidade na pasta mini-projetos. Você pode desenvolvê-los e colocá-los aqui mesmo, na pasta de mini-projetos ([clica aqui pra saber como mandar teu projetinho feito ou como enviar uma ideia de projetinho!](./CONTRIBUTING.md)), ou em um repositório seu e [vender teu peixe](#Vende-teu-peixe) para a galera ir contribuir com novas ideias legais por lá!
 
 ##### Desafios
-Temos também a pasta desafios, que a comunidade também envia por meio de issue, mas consistem em probleminhas para serem resolvidos, perfeito para você que quer praticar!
-Depois de feito, você também pode enviar o seu desafio cumprido aqui ([clica aqui para saber como!](./CONTRIBUTING.md))
+Temos também a pasta desafios, que a comunidade também as envia, mas consistem em probleminhas para serem resolvidos, perfeito para você que quer praticar! Clica [aqui](./CONTRIBUTING.md) para saber como enviar um desafio!
+Depois de feito, você também pode enviar o seu desafio cumprido aqui ([clica aqui para saber como!](./CONTRIBUTING.md)).
+A ideia dos desafios é fazer também com que questões sejam pensadas pela comunidade!
+
+##### [NOVO] Resoluções 
+Quando estamos aprendendo, principalmente, ou quando queremos praticar, sempre paramos em sites de julgamento online, que avaliam sua resolução para uma questão, como o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login), por exemplo. Aqui temos um diretório específico para você enviar suas implementações dessas plataformas, para saber como, clica [aqui](./CONTRIBUTING.md)!
 
 ### Vende teu peixe
 E você? Programa em Python, faz umas coisinhas vez ou outra (ou sempre) e quer divulgar? [Manda para cá](./CONTRIBUTING.md)!
@@ -101,4 +108,4 @@ Header| Aplicação de linha de comando para importar conteúdos prontos em arqu
 PyElit| Repositório para desenvolvimento de biblioteca com funcionalidades de: Geoparsing e Modelagem de Tópicos | [PyElit](https://github.com/richecr/PyElit)
 PyGraph| Biblioteca com intuito de implementar os grafos e seus algoritmos de Teoria dos Grafos| [PyGraph](https://github.com/richecr/PyGraph)
 PyTwitterSDK| Um SDK Python para a API Twitter| [PyTwitterSDK](https://github.com/richecr/PyTwitterSDK)
-| PySoccer| Biblioteca para acessar os dados das principais ligas mundiais de futebol| [PySoccer](https://github.com/richecr/PySoccer)
+PySoccer| Biblioteca para acessar os dados das principais ligas mundiais de futebol| [PySoccer](https://github.com/richecr/PySoccer)
