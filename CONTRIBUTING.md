@@ -80,7 +80,7 @@ Siga os passos:
 		Na pasta resolucoes, crie um diretório utilizando o nome da plataforma que contém a questão, se já existir, apenas adicione nela o arquivo seguindo o padrão:
 		numero_da_questao.py (ex: 1234.py).
 		É importante que você comente seu código para melhor entendimento e, ao resolver, coloque sua questão como feita no README.md, seguindo o padrão do mesmo.
-		Caso você queira enviar apenas uma sujestão de questão para a comunidade resolver, apenas adicione no README.md de resolucoes na parte de "Questões ainda sem resolução (Para você resolver!)", seguindo o padrão. 
+		Caso você queira enviar apenas uma sugestão de questão para a comunidade resolver, apenas adicione no README.md de resolucoes na parte de "Questões ainda sem resolução (Para você resolver!)", seguindo o padrão. 
 
 ### A feira
 O lugar de vender teu paixe é aqui! Segue como que faz:
