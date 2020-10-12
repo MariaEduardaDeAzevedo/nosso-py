@@ -9,12 +9,18 @@
 Olá, seja muito bem-vinde ao **Nosso Py**! Este repositório guarda uma coletânea de **links**, **códigos**, **mini-projetos** e **ideias** do que se fazer e de como aprender essa linguagem linda e maravilhosa que Python é. Segue esse README para saber mais e deixa uma ⭐ por aqui!
 
 ### Sumário
-- [Tem um minuto para ouvir a palavra do Python?](#Tem-um-minuto-para-ouvir-a-palavra-do-Python?)
-- [Para aprender](#Para-aprender)
-- [O maravilhoso mundo das bibliotecas](#O-maravilhoso-mundo-das-bibliotecas)
-- [Implementações](#Implementações)
-- [Bora programar!](#Bora-programar!)
-- [Vende teu peixe](#Vende-teu-peixe)
+- [Nosso Py](#nosso-py)
+  - [Um repositório para aprender Python](#um-repositório-para-aprender-python)
+    - [Sumário](#sumário)
+  - [Tem um minuto para ouvir a palavra do Python?](#tem-um-minuto-para-ouvir-a-palavra-do-python)
+    - [Para aprender](#para-aprender)
+    - [O maravilhoso mundo das bibliotecas](#o-maravilhoso-mundo-das-bibliotecas)
+    - [Implementações](#implementações)
+    - [Bora programar!](#bora-programar)
+        - [Mini-projetos](#mini-projetos)
+        - [Desafios](#desafios)
+        - [[NOVO] Resoluções](#novo-resoluções)
+    - [Vende teu peixe](#vende-teu-peixe)
 
 ## Tem um minuto para ouvir a palavra do Python?
 
@@ -60,6 +66,7 @@ Link | Tipo | Descrição
 [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/course/python-3-na-web-com-django-basico-intermediario/)|Curso gratuito na Udemy|Curso gratuito para ter noção de como planejar o desenvolvimento de uma aplicação web com python.
 [Django Web Framework (Python)](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django)|Artigo|Resumo sobre o que é e o que faz esse web framework.
 [The Django Book](https://github.com/erichideki/djangobook)|Livro gratuito|Tradução do livro feito por desenvoldedores do framework, sobre Django.
+[Flask Web micro-framework](https://www.twitch.tv/codeshow/videos)|Curso gratuito na Twitch|Curso de Flask desenvolvido pelo Bruno Rocha criador do canal CodeShow
 
 
 ### O maravilhoso mundo das bibliotecas
