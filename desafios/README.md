@@ -4,6 +4,7 @@ Aqui temos desafios enviados pela comunidade para você resolver ou se inspirar 
 #### Desafios não resolvidos
 Desafio|Autor
 ----------|--------
+[Entrevista](./entrevista)|[RamonBrandi](https://github.com/RamonBrandi)
 
 #### Desafios resolvidos
 Desafio|Autor|Resolvido por
