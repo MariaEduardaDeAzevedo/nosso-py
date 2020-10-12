@@ -46,6 +46,14 @@ Se a implementação é difícil de explicar, é uma má idéia.
 Se a implementação é fácil de explicar, pode ser uma boa idéia.
 Namespaces são uma grande idéia — vamos ter mais dessas!
 
+### PEP's
+
+PEP significa _Python Enhancement Proposal_, ou por tradução direta: "Proposta de melhoria Python". Uma PEP é um documento de design que fornece informações para comunidade Python, ou descreve um novo recurso da linguagem. Deve fornecer uma especificação técnica e concisa do recurso e uma justificativa para o mesmo.  
+
+A [PEP-8](https://wiki.python.org.br/GuiaDeEstilo) é um guia de estilo para Python, e uma das PEP's mais conhecidas. Ela oferece convenções para o código Python compreendido pela biblioteca padrão.
+
+[Esse](https://www.python.org/dev/peps/) é o site oficial das PEP's Python, nele é possível encontrar decisões e justificativas da comunidade Python.
+
 ### Para aprender
 Essa seção é pra você que quer aprender e aperfeiçoar o que sabe de Python e até a programar! 
 Por ser uma linguagem de altíssimo nível, com sintaxe simples, organizada, bonita, perfeita, maravilhosa e ainda ter uma comunidade muito proativa, essa pode ser perfeitamente sua primeira linguagem de programação.

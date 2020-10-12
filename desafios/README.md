@@ -5,6 +5,7 @@ Aqui temos desafios enviados pela comunidade para você resolver ou se inspirar 
 Desafio|Autor
 ----------|--------
 [Entrevista](./entrevista)|[RamonBrandi](https://github.com/RamonBrandi)
+[Paginação](./paginacao)|[Ruangoa](https://github.com/ruangoa)
 
 #### Desafios resolvidos
 Desafio|Autor|Resolvido por
