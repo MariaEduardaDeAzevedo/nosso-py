@@ -124,3 +124,4 @@ PyElit| Repositório para desenvolvimento de biblioteca com funcionalidades de: 
 PyGraph| Biblioteca com intuito de implementar os grafos e seus algoritmos de Teoria dos Grafos| [PyGraph](https://github.com/richecr/PyGraph)
 PyTwitterSDK| Um SDK Python para a API Twitter| [PyTwitterSDK](https://github.com/richecr/PyTwitterSDK)
 PySoccer| Biblioteca para acessar os dados das principais ligas mundiais de futebol| [PySoccer](https://github.com/richecr/PySoccer)
+PySub| Uma ferramenta de submissão e recebimento de arquivos via email por linha de comando|[PySub](https://github.com/MariaEduardaDeAzevedo/PySub)
