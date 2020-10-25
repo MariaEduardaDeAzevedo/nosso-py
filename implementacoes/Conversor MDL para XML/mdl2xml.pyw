@@ -1,5 +1,3 @@
-# Powered by @EuclidesRamos
-
 import matlab.engine # It is important to have the matlab engine installed on your pc
 import sys
 
