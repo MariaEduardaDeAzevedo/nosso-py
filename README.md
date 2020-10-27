@@ -75,7 +75,7 @@ Link | Tipo | Descrição
 [Django Web Framework (Python)](https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django)|Artigo|Resumo sobre o que é e o que faz esse web framework.
 [The Django Book](https://github.com/erichideki/djangobook)|Livro gratuito|Tradução do livro feito por desenvoldedores do framework, sobre Django.
 [Flask Web micro-framework](https://www.twitch.tv/codeshow/videos)|Curso gratuito na Twitch|Curso de Flask desenvolvido pelo Bruno Rocha criador do canal CodeShow
-
+[Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos)|Apostila gratuita|Apostila abordando principais conceitos  da linguagem com o foco na orientação a objetos com diversos exemplos.
 
 ### O maravilhoso mundo das bibliotecas
 Uma coisa que Python tem de ruma é módulo.  Se você já programa em Python, com certeza já foi no [Python Package Index](https://pypi.org/) (famoso, PyPi) para encontrar algum pacote que atendesse suas necessidades.
