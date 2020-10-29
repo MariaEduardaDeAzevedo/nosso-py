@@ -29,9 +29,8 @@ URI Online Judge|[1021 Notas e Moedas](https://www.urionlinejudge.com.br/judge/p
 URI Online Judge|[1036 - Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
 URI Online Judge|[1024 - Criptografia](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024)
 URI Online Judge|[1168 - LED](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168)
-URI Online Judge|[1253 - Cifra de César](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253)
-
 
 #### Questões já resolvidas
 Plataforma|Link da questão|Link da resolução
 ---------------|---------------------|------------------------
+URI Online Judge|[1253 - Cifra de César](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253)|[link](./uri/1253.py)
