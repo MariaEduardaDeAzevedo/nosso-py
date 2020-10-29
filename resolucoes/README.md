@@ -24,11 +24,15 @@ URI Online Judge|[1016 - Distância](https://www.urionlinejudge.com.br/judge/pt/
 URI Online Judge|[1017 - Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017)
 URI Online Judge|[1018 - Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)
 URI Online Judge|[1019 - Conversão de Tempo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)
-URI Online Judge|[1020 Idade em Dias](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)
-URI Online Judge|[1021 Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
+URI Online Judge|[1020 - Idade em Dias](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)
+URI Online Judge|[1021 - Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
 URI Online Judge|[1036 - Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
 URI Online Judge|[1024 - Criptografia](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024)
 URI Online Judge|[1168 - LED](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168)
+URI Online Judge|[1332 - Um-Dois-Três](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332)
+URI Online Judge|[1873 - Pedra-papel-tesoura-lagarto-Spock](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873)
+URI Online Judge|[1607 - Avance as Letras](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607)
+URI Online Judge|[1768 - Árvore de Natal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768)
 
 #### Questões já resolvidas
 Plataforma|Link da questão|Link da resolução
