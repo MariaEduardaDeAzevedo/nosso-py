@@ -33,4 +33,4 @@ URI Online Judge|[1168 - LED](https://www.urionlinejudge.com.br/judge/pt/problem
 #### Questões já resolvidas
 Plataforma|Link da questão|Link da resolução
 ---------------|---------------------|------------------------
-URI Online Judge|[1253 - Cifra de César](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253)|[link](./uri/1253.py)
+URI Online Judge|[1253 - Cifra de César](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253)|[Link 1253](./uri/1253.py)
