@@ -30,7 +30,6 @@ URI Online Judge|[1024 - Criptografia](https://www.urionlinejudge.com.br/judge/p
 URI Online Judge|[1168 - LED](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168)
 URI Online Judge|[1332 - Um-Dois-Três](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332)
 URI Online Judge|[1873 - Pedra-papel-tesoura-lagarto-Spock](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873)
-URI Online Judge|[1607 - Avance as Letras](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607)
 URI Online Judge|[1768 - Árvore de Natal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768)
 
 #### Questões já resolvidas
@@ -39,3 +38,4 @@ Plataforma|Link da questão|Link da resolução
 URI Online Judge|[1000 - Hello World!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000)|[Link 1000](./uri/1000.py)
 URI Online Judge|[1042 - Sort Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)|[Link 1042](./uri/1042.py)
 URI Online Judge|[1253 - Cifra de César](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253)|[Link 1253](./uri/1253.py)
+URI Online Judge|[1607 - Avance as Letras](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607)|[Link 1607](./uri/1607.py)
