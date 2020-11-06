@@ -1,6 +1,5 @@
 # Nosso Py
 ## Um repositório para aprender Python
-<img src="https://img.shields.io/badge/Hacktoberfest-Temporada%20de%20ca%C3%A7a-blueviolet"/>
 <p align="start" display="flex">
 <p align="center">
 <img src="https://t2.tudocdn.net/371798?w=646&h=284"/>
