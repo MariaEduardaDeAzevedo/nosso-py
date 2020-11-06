@@ -90,7 +90,7 @@ Pandas|Uma biblioteca voltada para manipulação e análise de dados|[pandas](ht
 Requests|Uma biblioteca que busca simplificar o HTTP|[requests](https://pypi.org/project/requests/)|[Link](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html)
 Numpy|Uma biblioteca usada principalmente para realizar cálculos em Arrays Multidimensionais|[numpy](https://pypi.org/project/numpy/)|[Link](https://numpy.org/doc/stable/)
 Matplotlib|Uma biblioteca de software para criação de gráficos e visualizações de dados|[matplotlib](https://pypi.org/project/matplotlib/)|[link](https://matplotlib.org/contents.html)
-Pillow|Uma biblioteca de processamento de imagens ótima para que quer iniciar no aprendizado!|[Pillow](https://pypi.org/project/Pillow/)|[Link](https://pillow.readthedocs.io/en/stable/)
+Pillow|Uma biblioteca de processamento de imagens ótima para quem quer iniciar no aprendizado!|[Pillow](https://pypi.org/project/Pillow/)|[Link](https://pillow.readthedocs.io/en/stable/)
 
 ### Implementações
 Sabe aquele algoritmo que sempre é um sacrilégio para a galera aprender? Tu sabe implementar? Não? Sem problemas! Quem sabe, [manda aqui](./CONTRIBUTING.md), quem não sabe, [aprende aqui!](./implementacoes).
