@@ -89,9 +89,9 @@ OPenCV|Uma biblioteca multiplataforma voltada para visão computacional|[opencv-
 Pandas|Uma biblioteca voltada para manipulação e análise de dados|[pandas](https://pypi.org/project/pandas/)|[Link](https://pandas.pydata.org/docs/)
 Requests|Uma biblioteca que busca simplificar o HTTP|[requests](https://pypi.org/project/requests/)|[Link](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html)
 Numpy|Uma biblioteca usada principalmente para realizar cálculos em Arrays Multidimensionais|[numpy](https://pypi.org/project/numpy/)|[Link](https://numpy.org/doc/stable/)
-Matplotlib|Uma biblioteca de software para criação de gráficos e visualizações de dados|[matplotlib](https://pypi.org/project/matplotlib/)|[link](https://matplotlib.org/contents.html)
+Matplotlib|Uma biblioteca de software para criação de gráficos e visualizações de dados|[matplotlib](https://pypi.org/project/matplotlib/)|[Link](https://matplotlib.org/contents.html)
 Pillow|Uma biblioteca de processamento de imagens ótima para quem quer iniciar no aprendizado!|[Pillow](https://pypi.org/project/Pillow/)|[Link](https://pillow.readthedocs.io/en/stable/)
-
+Celare|Pacote Python para esconder tokens de acesso nos seus projetos|[celare](https://pypi.org/project/celare)|[Link](https://github.com/MariaEduardaDeAzevedo/celare)
 ### Implementações
 Sabe aquele algoritmo que sempre é um sacrilégio para a galera aprender? Tu sabe implementar? Não? Sem problemas! Quem sabe, [manda aqui](./CONTRIBUTING.md), quem não sabe, [aprende aqui!](./implementacoes).
 
@@ -128,3 +128,5 @@ PyGraph| Biblioteca com intuito de implementar os grafos e seus algoritmos de Te
 PyTwitterSDK| Um SDK Python para a API Twitter| [PyTwitterSDK](https://github.com/richecr/PyTwitterSDK)
 PySoccer| Biblioteca para acessar os dados das principais ligas mundiais de futebol| [PySoccer](https://github.com/richecr/PySoccer)
 PySub| Uma ferramenta de submissão e recebimento de arquivos via email por linha de comando|[PySub](https://github.com/MariaEduardaDeAzevedo/PySub)
+Celare| Pacote Python para esconder tokens de acesso nos seus projetos|[celare](https://github.com/MariaEduardaDeAzevedo/celare)
+
