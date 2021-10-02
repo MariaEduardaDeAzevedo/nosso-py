@@ -5,7 +5,6 @@ Aqui temos resoluções de questões que já existem em plataformas de julgament
 Plataforma|Link da questão|
 ---------------|---------------------
 URI Online Judge|[1003 - Soma simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)
-URI Online Judge|[1004 - Produto simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)
 URI Online Judge|[1005 - Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)
 URI Online Judge|[1006 - Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)
 URI Online Judge|[1007 - Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)
@@ -30,6 +29,7 @@ Plataforma|Link da questão|Link da resolução
 URI Online Judge|[1000 - Hello World!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000)|[Link 1000](./uri/1000.py)
 URI Online Judge|[1001 - Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)|[Link 1001](./uri/1001.py)
 URI Online Judge|[1002 - Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)|[Link 1002](./uri/1002.py)
+URI Online Judge|[1004 - Produto simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)|[Link 1004](./uri/1004.py)
 URI Online Judge|[1017 - Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017)|[Link 1017](./uri/1017.py)
 URI Online Judge|[1018 - Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)|[Link 1018](./uri/1018.py)
 URI Online Judge|[1019 - Conversão de Tempo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)|[Link 1019](./uri/1019.py)
