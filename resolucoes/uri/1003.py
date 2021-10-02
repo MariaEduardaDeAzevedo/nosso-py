@@ -1,7 +1,7 @@
 a = int(input())
 b = int(input())
 
-prod = a * b
+soma = a + b
 
-print("PROD =", prod)
+print("SOMA =", soma)
 print("")
