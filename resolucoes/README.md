@@ -4,7 +4,6 @@ Aqui temos resoluções de questões que já existem em plataformas de julgament
 #### Questões ainda sem resolução (Para você resolver!)
 Plataforma|Link da questão|
 ---------------|---------------------
-URI Online Judge|[1001 - Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)
 URI Online Judge|[1003 - Soma simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)
 URI Online Judge|[1004 - Produto simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)
 URI Online Judge|[1005 - Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)
@@ -33,6 +32,7 @@ URI Online Judge|[1873 - Pedra-papel-tesoura-lagarto-Spock](https://www.urionlin
 Plataforma|Link da questão|Link da resolução
 ---------------|---------------------|------------------------
 URI Online Judge|[1000 - Hello World!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000)|[Link 1000](./uri/1000.py)
+URI Online Judge|[1001 - Extremamente Básico](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)|[Link 1001](./uri/1001.py)
 URI Online Judge|[1002 - Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)|[Link 1002](./uri/1002.py)
 URI Online Judge|[1042 - Sort Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1042)|[Link 1042](./uri/1042.py)
 URI Online Judge|[1168 - LED](https://www.urionlinejudge.com.br/judge/pt/problems/view/1168)|[Link 1168](./uri/1168.py)
