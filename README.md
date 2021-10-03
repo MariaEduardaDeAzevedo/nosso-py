@@ -78,6 +78,7 @@ Link | Tipo | Descrição
 [APRENDA Python 🚀🚀👇🏾](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica/playlists?view=50&sort=dd&shelf_id=9)|Playlists no Youtube|O Programação Dinâmica é canal de tecnologia e programação com muita coisa legal para amantes de Python!
 [Introdução à Computação com Python](https://panda.ime.usp.br/cc110/static/cc110/index.html)|Curso gratuito|Curso produzido pelo IME com tudo que precisa saber para ser introduzido a esse mundo. 
 [Lives sobre diversos assuntos sobre Python](https://www.youtube.com/c/Dunossauro/videos)|Vídeos no Youtube|Várias lives gravadas com diversos assuntos envolvendo Python e seu ecossistema. Abordando desde programação android com Python até como implementar Design Patterns.
+[Introdução à Ciência de Dados com Python](https://www.youtube.com/watch?v=F608hzn_ygo)|Vídeo no YouTube|Aula prática focada nos primeiros passos na ciência de dados utilizando Python.
 
 ### O maravilhoso mundo das bibliotecas
 Uma coisa que Python tem de ruma é módulo.  Se você já programa em Python, com certeza já foi no [Python Package Index](https://pypi.org/) (famoso, PyPi) para encontrar algum pacote que atendesse suas necessidades.
