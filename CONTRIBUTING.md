@@ -93,4 +93,4 @@ O lugar de vender teu paixe é aqui! Segue como que faz:
 3. Após isso,  no fim da página faça um commit das suas alterações e abra sua pull request. Não se esqueça de dar uma olhadinha em [como enviar uma PR perfeita](#A-PR-Perfeita).
 
 ### A PR perfeita
-Sem bronca! A PR perfeita só tem que seguir esse arquivo aqui e ser descritiva. Não esqueça de obedecer também o nosso [código de conduta](./codigo-de-conduta) para uma ótima convivência!
+Sem bronca! A PR perfeita só tem que seguir esse arquivo aqui e ser descritiva. Não esqueça de obedecer também o nosso [código de conduta](./codigo-de-conduta.md) para uma ótima convivência!
