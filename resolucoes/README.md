@@ -30,7 +30,7 @@ URI Online Judge|[1873 - Pedra-papel-tesoura-lagarto-Spock](https://www.urionlin
 | URI Online Judge | [1004 - Produto simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)      | [Link 1004](./uri/1004.py) |
 | URI Online Judge | [1005 - Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)              | [Link 1005](./uri/1005.py) |
 | URI Online Judge | [1007 - Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)            | [Link 1007](./uri/1007.py) |
-| URI Online Judge|| [1008 - Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008)              | [Link 1008](./uri/1008.py) |
+| URI Online Judge | [1008 - Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008)              | [Link 1008](./uri/1008.py) |
 | URI Online Judge | [1009 - Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009)    | [Link 1009](./uri/1009.py) |
 | URI Online Judge | [1010 - Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010)      | [Link 1010](./uri/1010.py) |
 | URI Online Judge | [1011 - Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011)               | [Link 1011](./uri/1011.py) |
