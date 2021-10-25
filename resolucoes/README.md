@@ -6,10 +6,8 @@ Aqui temos resoluções de questões que já existem em plataformas de julgament
 
 | Plataforma | Link da questão |
 | ---------- | --------------- |
-
 URI Online Judge|[1006 - Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)
 URI Online Judge|[1012 - Área](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012)
-URI Online Judge|[1013 - O Maior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013)
 URI Online Judge|[1014 - Consumo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014)
 URI Online Judge|[1015 - Distância Entre Dois Pontos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015)
 URI Online Judge|[1016 - Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016)
@@ -18,6 +16,7 @@ URI Online Judge|[1036 - Fórmula de Bhaskara](https://www.urionlinejudge.com.br
 URI Online Judge|[1024 - Criptografia](https://www.urionlinejudge.com.br/judge/pt/problems/view/1024)
 URI Online Judge|[1332 - Um-Dois-Três](https://www.urionlinejudge.com.br/judge/pt/problems/view/1332)
 URI Online Judge|[1873 - Pedra-papel-tesoura-lagarto-Spock](https://www.urionlinejudge.com.br/judge/pt/problems/view/1873)
+
 
 #### Questões já resolvidas
 
