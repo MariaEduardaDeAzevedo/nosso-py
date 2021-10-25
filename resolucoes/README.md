@@ -6,7 +6,6 @@ Aqui temos resoluções de questões que já existem em plataformas de julgament
 
 | Plataforma | Link da questão |
 | ---------- | --------------- |
-
 URI Online Judge|[1006 - Média 2](https://www.urionlinejudge.com.br/judge/pt/problems/view/1006)
 URI Online Judge|[1008 - Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1008)
 URI Online Judge|[1009 - Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009)
