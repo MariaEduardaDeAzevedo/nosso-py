@@ -13,7 +13,6 @@ URI Online Judge|[1009 - Salário com Bônus](https://www.urionlinejudge.com.br/
 URI Online Judge|[1010 - Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010)
 URI Online Judge|[1011 - Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011)
 URI Online Judge|[1012 - Área](https://www.urionlinejudge.com.br/judge/pt/problems/view/1012)
-URI Online Judge|[1013 - O Maior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013)
 URI Online Judge|[1014 - Consumo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1014)
 URI Online Judge|[1015 - Distância Entre Dois Pontos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015)
 URI Online Judge|[1016 - Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/1016)
@@ -34,6 +33,7 @@ URI Online Judge|[1873 - Pedra-papel-tesoura-lagarto-Spock](https://www.urionlin
 | URI Online Judge | [1004 - Produto simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004)      | [Link 1004](./uri/1004.py) |
 | URI Online Judge | [1005 - Média 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1005)              | [Link 1005](./uri/1005.py) |
 | URI Online Judge | [1007 - Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)            | [Link 1007](./uri/1007.py) |
+| URI Online Judge | [1013 - O Maior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013)              | [Link 1013](./uri/1013.py) |
 | URI Online Judge | [1017 - Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017) | [Link 1017](./uri/1017.py) |
 | URI Online Judge | [1018 - Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)              | [Link 1018](./uri/1018.py) |
 | URI Online Judge | [1019 - Conversão de Tempo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)   | [Link 1019](./uri/1019.py) |
