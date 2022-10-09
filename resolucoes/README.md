@@ -42,3 +42,7 @@ URI Online Judge|[1873 - Pedra-papel-tesoura-lagarto-Spock](https://www.urionlin
 | URI Online Judge | [1253 - Cifra de César](https://www.urionlinejudge.com.br/judge/pt/problems/view/1253)       | [Link 1253](./uri/1253.py) |
 | URI Online Judge | [1607 - Avance as Letras](https://www.urionlinejudge.com.br/judge/pt/problems/view/1607)     | [Link 1607](./uri/1607.py) |
 | URI Online Judge | [1768 - Árvore de Natal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1768)      | [Link 1768](./uri/1768.py) |
+| URI Online Judge | [2144 - Bodybuilder](https://www.beecrowd.com.br/judge/pt/problems/view/2144)      | [Link 2144](./uri/2144.py) |
+| URI Online Judge | [2176 - Paridade](https://www.beecrowd.com.br/judge/pt/problems/view/2176)      | [Link 2176](./uri/2176.py) |
+| URI Online Judge | [2670 - Máquina de Café](https://www.beecrowd.com.br/judge/pt/problems/view/2670)      | [Link 2670](./uri/2670.py) |
+| URI Online Judge | [2717 - Tempo do Duende](https://www.beecrowd.com.br/judge/pt/problems/view/2717)      | [Link 2717](./uri/2717.py) |
