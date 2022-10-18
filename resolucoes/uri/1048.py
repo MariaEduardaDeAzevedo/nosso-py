@@ -1,0 +1,32 @@
+S = float(input())
+SD = float (S/100)
+if (S <= 400.00):
+	RJ = float (SD*15)
+	NS = float(S+RJ)
+	print ("Novo salario: %.2f" %NS)
+	print ("Reajuste ganho: %.2f" %RJ)
+	print ("Em percentual: 15 %")
+if (S >= 400.01) and (S <= 800.00):
+	RJ = float (SD*12)
+	NS = float(S+RJ)
+	print ("Novo salario: %.2f" %NS)
+	print ("Reajuste ganho: %.2f" %RJ)
+	print ("Em percentual: 12 %")
+if (S >= 800.01) and (S <= 1200.00):
+	RJ = float (SD*10)
+	NS = float(S+RJ)
+	print ("Novo salario: %.2f" %NS)
+	print ("Reajuste ganho: %.2f" %RJ)
+	print ("Em percentual: 10 %")
+if (S >= 1200.01) and (S <= 2000.00):
+	RJ = float (SD*7)
+	NS = float(S+RJ)
+	print ("Novo salario: %.2f" %NS)
+	print ("Reajuste ganho: %.2f" %RJ)
+	print ("Em percentual: 7 %")
+if (S >= 2000.01):
+	RJ = float (SD*4)
+	NS = float(S+RJ)
+	print ("Novo salario: %.2f" %NS)
+	print ("Reajuste ganho: %.2f" %RJ)
+	print ("Em percentual: 4 %")
