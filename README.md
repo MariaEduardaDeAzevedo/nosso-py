@@ -82,6 +82,7 @@ Link | Tipo | Descrição
 [Teste unitário com PyUnit](https://www.devmedia.com.br/teste-unitario-com-pyunit/41233)|Artigo|PyUnit é a forma mais difundida para realizar a prática de testes unitários pela comunidade Python.
 [Python tutorial: Tour pela linguagem](https://www.devmedia.com.br/python-tutorial-tour-pela-linguagem/40646)|Artigo|Neste artigo é apresentado as principais características da linguagem Python com exemplos de código e explicações.
 [Python: Automação de tarefas](https://www.devmedia.com.br/python-automacao-de-tarefas/29984)|Artigo|O objetivo deste artigo é apresentar a linguagem Python como um meio agradável e simples de automatizar tarefas do dia a dia e permitir que os sysadmins produzam mais com menos esforço.
+[Pense em Python](https://penseallen.github.io/PensePython2e/)|Livro Gratuito|Este livro ensina programação para quem nunca programou, usando Python 3 nos exemplos. É aplicado no Olin College, IBMEC e outras faculdades de engenharia de primeira linha.
 
 ### O maravilhoso mundo das bibliotecas
 Uma coisa que Python tem de ruma é módulo.  Se você já programa em Python, com certeza já foi no [Python Package Index](https://pypi.org/) (famoso, PyPi) para encontrar algum pacote que atendesse suas necessidades.
